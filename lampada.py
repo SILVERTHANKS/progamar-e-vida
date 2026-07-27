@@ -1,21 +1,20 @@
-#iniciar c/valor para demostra lampada apagada!
+#estado da lampada
 lampada = False
-def desligada():
-    global lampada
-    print('Desligada!')
-
-def ligada():
+def ligar():
     global lampada
     lampada = True
-    print('ligada!')   
+def desligar():
+    global lampada
+    lampada = False
 
-def estado_da_lampada():
-    if lampada:     
-        print('estado ligado')
+def condicao():
+    if lampada :
+        print('Lampada Ligada!')   
+
     else:
-        print('Estado desligado')   
-estado_da_lampada()         
-desligada()
-estado_da_lampada()
-ligada()
-estado_da_lampada()
+        print('Estado desligada!')     
+condicao()
+ligar()
+condicao()
+desligar()
+condicao()
