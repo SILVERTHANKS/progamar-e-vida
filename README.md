@@ -14,6 +14,7 @@ Este repositório reúne exercícios e projetos desenvolvidos para praticar prog
 - ✅ Funções
 - ✅ Listas
 - ✅ Dicionários
+- ✅ Poo
 - 🔄 Novos projetos serão adicionados continuamente.
 
 ## 🛠 Tecnologias
