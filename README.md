@@ -1,35 +1,57 @@
-# 🐍 Programar e Vida
+# Programar e Vida
 
-Projeto desenvolvido por **Carlos Eduardo Ribeiro dos Santos** durante meus estudos de Python e Ciência da Computação.
+Repositório de estudos em Python e lógica de programação, criado para praticar conceitos fundamentais por meio de exercícios curtos e programas interativos.
 
-## 📚 Objetivo
+## O que você encontra aqui
 
-Este repositório reúne exercícios e projetos desenvolvidos para praticar programação em Python, lógica de programação e boas práticas de desenvolvimento.
+- **Lógica de programação:** condicionais, laços de repetição e validação de entradas.
+- **Estruturas de dados:** listas, dicionários e tuplas.
+- **Funções:** organização do código em blocos reutilizáveis.
+- **Programação orientada a objetos:** primeiros exercícios com classes e objetos.
+- **Algoritmos:** exemplos como Fibonacci e desempacotamento.
+- **Projetos de terminal:** exercícios como caixa eletrônico, cálculo de IMC e menu de hotel.
 
-## 🚀 Projetos
+Os arquivos são exercícios independentes; consulte o nome e o conteúdo de cada script para identificar o tema praticado.
 
-- ✅ Caixa eletrônico
-- ✅ Exercícios de lógica
-- ✅ Estruturas de repetição (`for` e `while`)
-- ✅ Funções
-- ✅ Listas
-- ✅ Dicionários
-- ✅ Poo
-- 🔄 Novos projetos serão adicionados continuamente.
-
-## 🛠 Tecnologias
+## Tecnologias
 
 - Python 3
 - Git
 - GitHub
 - VS Code
 
-## 🎯 Objetivo profissional
+## Como executar
 
-Estou em transição de carreira para a área de desenvolvimento de software. Este repositório faz parte do meu processo de aprendizado e da construção do meu portfólio como futuro desenvolvedor Python.
+1. Instale o [Python 3](https://www.python.org/downloads/).
+2. Clone o repositório:
 
-## 👨‍💻 Autor
+   ```bash
+   git clone https://github.com/SILVERTHANKS/progamar-e-vida.git
+   cd progamar-e-vida
+   ```
 
-**Carlos Eduardo Ribeiro dos Santos**
+3. Execute um dos arquivos, por exemplo:
 
-Graduando em Ciência da Computação.
+   ```bash
+   python fibonacci.py
+   ```
+
+No Windows, se necessário, use `py fibonacci.py`.
+
+## Objetivo de aprendizagem
+
+Este repositório registra minha evolução na programação. Estou fortalecendo a base de Python e desenvolvendo hábitos de organização, legibilidade e documentação para aplicar esses conhecimentos em projetos cada vez mais completos.
+
+## Próximas melhorias
+
+- Organizar os exercícios em pastas por assunto.
+- Adicionar exemplos de entrada e saída aos projetos principais.
+- Criar testes para os programas que evoluírem além dos exercícios iniciais.
+- Revisar validações e segurança dos exemplos interativos.
+
+## Autor
+
+Carlos Eduardo Ribeiro dos Santos — estudante de Ciência da Computação.
+
+- GitHub: [@SILVERTHANKS](https://github.com/SILVERTHANKS)
+
